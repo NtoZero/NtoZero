@@ -86,7 +86,6 @@
 ---
 
 ### ✉️ 연락해주세요!
-📱: 010-사6이3-칠오37
 <p>
   <a href="mailto:dev.st1027@gmail.com" target="_blank"><img src="https://img.shields.io/badge/dev.st1027@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://velog.io/@9to0" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"/></a>
